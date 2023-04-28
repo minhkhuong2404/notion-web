@@ -1,9 +1,9 @@
 # Howz.Dev - Personal Website and Blog
 
-![](https://img.shields.io/github/issues/howznguyen/howz.dev?color=0088ff)
-![](https://img.shields.io/github/languages/top/howznguyen/howz.dev)
-![](https://img.shields.io/github/manifest-json/v/howznguyen/howz.dev)
-![](https://img.shields.io/github/discussions/howznguyen/howz.dev)
+![](https://img.shields.io/github/issues/minhkhuong2404/notion-web?color=0088ff)
+![](https://img.shields.io/github/languages/top/minhkhuong2404/notion-web)
+![](https://img.shields.io/github/manifest-json/v/minhkhuong2404/notion-web)
+![](https://img.shields.io/github/discussions/minhkhuong2404/notion-web)
 
 💠 This is my personal website and blog, built using Next.js, TypeScript, Tailwind CSS, and Notion. The blog posts are managed in Notion, and the website pulls the content from the Notion API at build time.
 
@@ -22,7 +22,7 @@ To get started with this project, follow these steps:
 
 To get started with this project, you can clone the repository and install the dependencies:
 ```bash
-git clone https://github.com/howznguyen/howz.dev.git
+git clone https://github.com/minhkhuong2404/notion-web.git
 cd howz.dev
 npm install
 ```
@@ -33,7 +33,7 @@ cp .env .env.example
 ```
 ### Notion Database Setup
 
-You can duplicate the Notion page for database template [here](https://howznguyen.notion.site/Howz-Nguyen-Blog-Template-6085aaf78b84462bb137db0e8fea2676). 
+You can duplicate the Notion page for database template [here](https://luminhkhuong.notion.site/Blog-Template-d79d594e2dd14a1ab4b0f6b324c1cae8). 
 
 Once you have your own duplicate page, you can get the `NOTION_API_KEY` and database IDs needed to run the project. To get your `NOTION_API_KEY`, follow these steps:
 

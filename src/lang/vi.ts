@@ -22,23 +22,19 @@ const vi = {
     social_networks: [
       {
         icon: "SiGmail",
-        link: "mailto:duyntp2000@gmail.com",
+        link: "mailto:khuonglu1999@gmail.com",
       },
       {
         icon: "SiLinkedin",
-        link: "https://www.linkedin.com/in/duyntp2000/",
+				link: "https://www.linkedin.com/in/luminhkhuong/",
       },
       {
         icon: "SiGithub",
-        link: "https://github.com/howznguyen",
-      },
-      {
-        icon: "SiGitlab",
-        link: "https://gitlab.com/howznguyen",
+				link: "https://github.com/minhkhuong2404",
       },
       {
         icon: "SiFacebook",
-        link: "https://www.facebook.com/howznguyen",
+				link: "https://www.facebook.com/khuong.luminh99",
       },
       
     ],
@@ -48,7 +44,7 @@ const vi = {
   },
   home: {
     intro: {
-      header: "Xin chào, Mình là Howz Nguyễn",
+      header: "Xin chào, Mình là Khương Lữ",
       description:
         "Mình hiện tại đang là một Lập Trình Viên Fullstack. Đây là một website mình tạo ra với mong muốn được chia sẻ kiến thức của mình đến với mọi người. Cảm ơn mọi người đã ghé qua. ❤️",
       image: "/assets/images/orion-nebula.jpg",
@@ -56,17 +52,17 @@ const vi = {
         {
           icon: "HiOutlineNewspaper",
           title: "Resume",
-          link: "https://github.com/howznguyen/my-resume/blob/main/pdf/cv_en_vi_howznguyen.pdf",
+          link: "https://github.com/minhkhuong2404/my-cv/blob/main/pdf/cv_en_vi_howznguyen.pdf",
         },
         {
           icon: "FaFacebook",
-          title: "howznguyen",
-          link: "https://facebook.com/howznguyen/",
+          title: "Lu Minh Khuong",
+					link: "https://facebook.com/khuong.luminh99/",
         },
         {
           icon: "FaGithub",
-          title: "howznguyen",
-          link: "https://github.com/howznguyen",
+          title: "minhkhuong2404",
+          link: "https://github.com/minhkhuong2404",
         },
       ],
     },

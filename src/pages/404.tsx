@@ -16,7 +16,7 @@ const Page404 = ({head} : Page404Pros ) => {
     <NextSeo 
         title={head.siteTitle}
         description={head.siteDescription}
-        canonical="https://howz.dev"
+        canonical="https://luminhkhuong.vercel.app/"
         openGraph={{
           title: head.siteTitle,
           description: head.siteDescription,
