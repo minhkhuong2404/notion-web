@@ -23,27 +23,22 @@ const en = {
       {
         title: "Mail",
         icon: "SiGmail",
-        link: "mailto:duyntp2000@gmail.com",
+        link: "mailto:khuonglu1999@gmail.com",
       },
       {
         title: "Linkedin",
         icon: "SiLinkedin",
-        link: "https://www.linkedin.com/in/duyntp2000/",
+        link: "https://www.linkedin.com/in/luminhkhuong/",
       },
       {
         title: "Github",
         icon: "SiGithub",
-        link: "https://github.com/howznguyen",
-      },
-      {
-        title: "Gitlab",
-        icon: "SiGitlab",
-        link: "https://gitlab.com/howznguyen",
+        link: "https://github.com/minhkhuong2404",
       },
       {
         title: "Facebook",
         icon: "SiFacebook",
-        link: "https://www.facebook.com/howznguyen",
+        link: "https://www.facebook.com/khuong.luminh99/",
       },
       
     ],
@@ -53,7 +48,7 @@ const en = {
   },
   home: {
     intro: {
-      header: "Hi, I'm Howz Nguyen",
+      header: "Hi, I'm Khuong Lu",
       description:
         "I am currently a Fullstack Developer. This is a website I created with the desire to share my knowledge to everyone. Thank you to everyone who visited. ❤️",
       image: "/assets/images/orion-nebula.jpg",
@@ -61,17 +56,17 @@ const en = {
         {
           icon: "HiOutlineNewspaper",
           title: "Resume",
-          link: "https://github.com/howznguyen/my-resume/blob/main/pdf/cv_en_vi_howznguyen.pdf",
+          link: "https://github.com/minhkhuong2404/my-cv/blob/main/pdf/cv_en_vi_howznguyen.pdf",
         },
         {
           icon: "FaFacebook",
-          title: "howznguyen",
-          link: "https://facebook.com/howznguyen/",
+          title: "Lu Minh Khuong",
+          link: "https://facebook.com/khuong.luminh99/",
         },
         {
           icon: "FaGithub",
-          title: "howznguyen",
-          link: "https://github.com/howznguyen",
+          title: "minhkhuong2404",
+          link: "https://github.com/minhkhuong2404",
         },
       ],
     },

@@ -1,12 +1,12 @@
 {
-  "name": "howz.dev",
+  "name": "khuong.lu",
   "version": "0.0.6",
   "description": "💠 Personal website and blog made using Next.js, TypeScript, Tailwind CSS and Notion",
-  "author": "howznguyen",
+  "author": "minhkhuong2404",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/howznguyen/howz.dev.git"
+    "url": "https://github.com/minhkhuong2404/notion-web.git"
   },
   "scripts": {
     "dev": "next dev",
