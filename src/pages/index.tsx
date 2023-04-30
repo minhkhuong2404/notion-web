@@ -1,5 +1,6 @@
 import { Button } from "@/components/atoms";
 import { IntroCard, PostList } from "@/components/molecules";
+import MidJourneyImages from "@/components/molecules/MidJourneyImages";
 import { MainTemplate } from "@/components/templates";
 import { Notion, Route, getTransServer, useTrans } from "@/lib";
 import { GetStaticProps } from "next";
@@ -52,6 +53,7 @@ const HomePage = ({
               </div>
             </section>
           ))}
+					<MidJourneyImages />
         </div>
       </MainTemplate>
     </>

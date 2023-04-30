@@ -19,7 +19,8 @@ const Route = {
 
     // Image
     image: (file: string, includeDomain = false) => `${includeDomain ? BASE_URL : ''}/assets/images/${file}`,
-    defaultCover: (includeDomain = false) => `${includeDomain ? BASE_URL : ''}/assets/images/og.png`,
+    midJourneyImage: (file: string, includeDomain = false) => `${includeDomain ? BASE_URL : ''}/assets/images/midjourney/${file}`,
+		defaultCover: (includeDomain = false) => `${includeDomain ? BASE_URL : ''}/assets/images/og.png`,
     defaultLogo: (includeDomain = false) => `${includeDomain ? BASE_URL : ''}/assets/images/logo.png`,
 };
 

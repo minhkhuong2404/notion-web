@@ -47,7 +47,7 @@ const vi = {
       header: "Xin chào, Mình là Khương Lữ",
       description:
         "Mình hiện tại đang là một Lập Trình Viên Fullstack. Đây là một website mình tạo ra với mong muốn được chia sẻ kiến thức của mình đến với mọi người. Cảm ơn mọi người đã ghé qua. ❤️",
-      image: "/assets/images/orion-nebula.jpg",
+			image: "/assets/images/yos-colorful.png",
       links: [
         {
           icon: "HiOutlineNewspaper",
@@ -66,23 +66,23 @@ const vi = {
         },
       ],
     },
-    featured_posts: "Bài Viết Đặc Sắc",
+		featured_posts: "Bài Viết Đặc Sắc 🚀",
     read_more: "Xem thêm",
     categories: [
       {
-        name: "Kiến thức",
+        name: "Kiến thức 🎓",
         description:
           "Các bài viết liên quan về kiến thức lập trình và thuật toán.",
         value: ["code", "algorithm"],
       },
       {
-        name: "Tutorial & Tips",
+        name: "Tutorial & Tips 💡",
         description:
           "Các bài viết hướng dẫn hoặc mẹo về lập trình và công nghệ.",
         value: ["tutorial", "tip"],
       },
       {
-        name: "Notion",
+        name: "Notion 📚",
         description:
           "Các bài viết có nội dung về Notion và các tiện ích xung quanh Notion.",
         value: ["notion"],

@@ -34,7 +34,7 @@ const IntroCard = ({}: IntroCard) => {
                   className="flex items-center"
                   key={i}
                 >
-                  <Icon icon={item.icon} className="mr-1"/>
+                  <Icon icon={item.icon} className="mr-1 dark:text-emerald-400 text-violet-700"/>
                   {item.title}
                 </Link>
               )}

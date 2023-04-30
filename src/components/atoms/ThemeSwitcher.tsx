@@ -7,7 +7,7 @@ import { useTrans } from "@/lib";
 interface ThemeSwitcherProps {}
 
 const ThemeSwitcher = ({}: ThemeSwitcherProps) => {
-  const { theme, setTheme } = useTheme();
+  const { theme= "light", setTheme } = useTheme();
   const trans = useTrans();
   
   return (

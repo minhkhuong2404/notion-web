@@ -51,7 +51,7 @@ const en = {
       header: "Hi, I'm Khuong Lu",
       description:
         "I am currently a Fullstack Developer. This is a website I created with the desire to share my knowledge to everyone. Thank you to everyone who visited. ❤️",
-      image: "/assets/images/orion-nebula.jpg",
+      image: "/assets/images/yos-colorful.png",
       links: [
         {
           icon: "HiOutlineNewspaper",
@@ -70,22 +70,22 @@ const en = {
         },
       ],
     },
-    featured_posts: "Featured Posts",
+    featured_posts: "Featured Posts 🚀",
     read_more: "Read more",
     categories: [
       {
-        name: "Knowledge",
+        name: "Knowledge 🎓",
         description:
           "Related posts about programming knowledge and algorithms.",
         value: ["code", "algorithm"],
       },
       {
-        name: "Tutorial & Tips",
+        name: "Tutorial & Tips 💡",
         description: "Tutorials or tips about programming and technology.",
         value: ["tutorial", "tip"],
       },
       {
-        name: "Notion",
+        name: "Notion 📚",
         description:
           "Articles with content about Notion and utilities around Notion.",
         value: ["notion"],
