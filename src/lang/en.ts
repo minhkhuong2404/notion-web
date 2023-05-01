@@ -50,13 +50,13 @@ const en = {
     intro: {
       header: "Hi, I'm Khuong Lu",
       description:
-        "I am currently a Fullstack Developer. This is a website I created with the desire to share my knowledge to everyone. Thank you to everyone who visited. ❤️",
+        "I am currently a Fullstack Programmer. This is a website that I created with the desire to share my knowledge with everyone, not just limited to the programming field. Thank you for visiting. ❤️",
       image: "/assets/images/yos-colorful.png",
       links: [
         {
-          icon: "HiOutlineNewspaper",
-          title: "Resume",
-          link: "https://github.com/minhkhuong2404/my-cv/blob/main/pdf/cv_en_vi_howznguyen.pdf",
+          icon: "FaLinkedin",
+          title: "Lu Minh Khuong",
+					link: "https://www.linkedin.com/in/luminhkhuong/",
         },
         {
           icon: "FaFacebook",
@@ -72,30 +72,41 @@ const en = {
     },
     featured_posts: "Featured Posts 🚀",
     read_more: "Read more",
-    categories: [
-      {
-        name: "Knowledge 🎓",
-        description:
-          "Related posts about programming knowledge and algorithms.",
-        value: ["code", "algorithm"],
-      },
-      {
-        name: "Tutorial & Tips 💡",
-        description: "Tutorials or tips about programming and technology.",
-        value: ["tutorial", "tip"],
-      },
-      {
-        name: "Notion 📚",
-        description:
-          "Articles with content about Notion and utilities around Notion.",
-        value: ["notion"],
-      },
-      {
-        name: "Other",
-        description: "The posts are not related to technology topics.",
-        value: ["other"],
-      },
-    ],
+		categories: [
+			{
+				name: "Knowledge 🎓",
+				description:
+					"Articles related to programming knowledge and algorithms.",
+				value: ["code", "algorithm"],
+			},
+			{
+				name: "Tutorial & Tips 💡",
+				description:
+					"Articles providing guidance or tips on programming and technology.",
+				value: ["tutorial", "tip"],
+			},
+			{
+				name: "Java Basics",
+				description: "Articles about Java fundamentals.",
+				value: ["java", "basic", "middle", "advanced"],
+			},
+			{
+				name: "Spring Boot",
+				description: "Articles about Spring Boot.",
+				value: ["java", "spring-boot"],
+			},
+			{
+				name: "Notion 📚",
+				description:
+					"Articles with content related to Notion and its surrounding utilities.",
+				value: ["notion"],
+			},
+			{
+				name: "Others",
+				description: "Articles not related to technology topics.",
+				value: ["other"],
+			},
+		],
   },
   post: {
     published_at_by: (datetime: any, author: any, locale: string) => {
@@ -113,7 +124,7 @@ const en = {
       return `${views} views`;
     },
     tags: "Tags",
-    relate_post: "Realted Posts:",
+    relate_post: "Related Posts:",
     table_of_contents: "Table of Contents"
   },
   blog: {

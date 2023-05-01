@@ -22,6 +22,8 @@ const MidJourneyImages = () => {
           {imageFilenames.map((filename, index) => (
             <div key={index} className="w-64 mr-4 mb-4">
               <Image
+								width={256}
+								height={256}
                 src={Route.midJourneyImage(`${filename}`)}
                 alt={`MidJourney Image ${index}`}
               />

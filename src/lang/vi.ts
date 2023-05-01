@@ -46,13 +46,13 @@ const vi = {
     intro: {
       header: "Xin chào, Mình là Khương Lữ",
       description:
-        "Mình hiện tại đang là một Lập Trình Viên Fullstack. Đây là một website mình tạo ra với mong muốn được chia sẻ kiến thức của mình đến với mọi người. Cảm ơn mọi người đã ghé qua. ❤️",
+        "Mình hiện tại đang là một Lập Trình Viên Fullstack. Đây là một website mình tạo ra với mong muốn được chia sẻ kiến thức của mình đến với mọi người không chỉ giới hạn về mảng lập trình. Cảm ơn mọi người đã ghé qua. ❤️",
 			image: "/assets/images/yos-colorful.png",
       links: [
         {
-          icon: "HiOutlineNewspaper",
-          title: "Resume",
-          link: "https://github.com/minhkhuong2404/my-cv/blob/main/pdf/cv_en_vi_howznguyen.pdf",
+          icon: "FaLinkedin",
+          title: "Lu Minh Khuong",
+					link: "https://www.linkedin.com/in/luminhkhuong/",
         },
         {
           icon: "FaFacebook",
@@ -81,6 +81,16 @@ const vi = {
           "Các bài viết hướng dẫn hoặc mẹo về lập trình và công nghệ.",
         value: ["tutorial", "tip"],
       },
+			{
+				name: "Java cơ bản",
+				description: "Các bài viết về Java cơ bản",
+				value: ["java", "basic", "middle", "advanced"],
+			},
+			{
+				name: "Spring Boot",
+				description: "Các bài viết về Spring Boot",
+				value: ["java", "spring-boot"],
+			},
       {
         name: "Notion 📚",
         description:
