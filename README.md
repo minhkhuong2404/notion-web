@@ -1,9 +1,12 @@
-# Howz.Dev - Personal Website and Blog
+# Khuong Lu - Personal Website and Blog
 
 ![](https://img.shields.io/github/issues/minhkhuong2404/notion-web?color=0088ff)
 ![](https://img.shields.io/github/languages/top/minhkhuong2404/notion-web)
 ![](https://img.shields.io/github/manifest-json/v/minhkhuong2404/notion-web)
 ![](https://img.shields.io/github/discussions/minhkhuong2404/notion-web)
+![](https://img.shields.io/github/deployments/minhkhuong2404/notion-web/production)
+![](https://img.shields.io/website?down_color=red&up_message=running&url=https%3A%2F%2Fwww.luminhkhuong.edu.vn)
+![](https://img.shields.io/github/last-commit/minhkhuong2404/notion-web)
 
 💠 This is my personal website and blog, built using Next.js, TypeScript, Tailwind CSS, and Notion. The blog posts are managed in Notion, and the website pulls the content from the Notion API at build time.
 
