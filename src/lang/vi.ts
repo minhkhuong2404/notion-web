@@ -5,6 +5,9 @@ const vi = {
     { value: "en", label: "Eng" },
     { value: "vi", label: "Vie" },
   ],
+	images: {
+		description: "Để xem thêm nhiều ảnh khác, các bạn có thể ghé website khác của mình tại:\n"
+	},
   header: {
     open_navigation : "Open Navigation",
     close_navigation : "Close Navigation",

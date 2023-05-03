@@ -5,6 +5,9 @@ const en = {
     { value: "en", label: "Eng" },
     { value: "vi", label: "Vie" },
   ],
+	images: {
+		description: "For more images like these, check out my website:\n"
+	},
   header: {
     open_navigation : "Open Navigation",
     close_navigation : "Close Navigation",
