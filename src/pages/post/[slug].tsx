@@ -114,7 +114,7 @@ const PostPage = ({
           <hr className="dark:border-gray-600" />
 
           <div className="lg:grid lg:grid-cols-[auto,250px] lg:gap-4 mt-4">
-            <section className="md:mr-6 leading-7 text-justify w-auto">
+            <section className="grid md:mr-6 leading-7 text-justify w-auto">
               <NotionRender contents={post.contents} />
 
               <span>
